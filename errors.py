@@ -9,4 +9,3 @@ for k,v in CV1.items():
 print("\n--CV1--")
 for key, value in CV1.items():
     print(key, ':', value)
-
