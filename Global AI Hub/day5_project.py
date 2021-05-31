@@ -37,7 +37,7 @@ def categories(category_choice, question_num):
                   "Q9": "ANS9",
                   "Q10": "ANS10",
                   }
-        question = sports(question_num - 1)
+
 
     if (category_choice == 'Literature'):
         literature = {"Q1": "ANS1",
@@ -51,7 +51,7 @@ def categories(category_choice, question_num):
                         "Q9": "ANS9",
                         "Q10": "ANS10",
                         }
-        question = literature(question_num - 1)
+
 
     if (category_choice == 'Music'):
         music = {"Q1": "ANS1",
@@ -65,11 +65,18 @@ def categories(category_choice, question_num):
                   "Q9": "ANS9",
                   "Q10": "ANS10",
                   }
-        question = music(question_num - 1)
+
 
     return qs_ans
 
 
+'''
+def check(ans, user_input):
+    if (ans == user_input):
+        print("Correct!")
+    else:
+        print("Wrong! The correct answer was: %s" % (ans))
+'''
 
 def scoreboard(score):
     pass
@@ -95,6 +102,7 @@ while (question_count <= 10):
 
     #print("Q1 (%s): %s" % (category_choice, question))
     input("Enter your answer for the question: ")
+
     break
 
 
