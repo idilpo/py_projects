@@ -82,29 +82,42 @@ def scoreboard(score):
     pass
 
 
-print("----------WELCOME TO THE KNOWLEDGE COMPETITION!!!----------")
-print("The Knowlegde Competition consists of 10 questions, each woth of 10 points and each has an only one correct answer.")
-print("Please be vary of case sensetivity when enterring answers.")
-print("In order to win, you will need to answer 50% or more of the total questions correctly.")
-print("Now that you are ready to play...The game will begin!")
-print("-----------------------------------------------------------")
+def main():
+    print("----------WELCOME TO THE KNOWLEDGE COMPETITION!!!----------")
+    choice = input("Would you like to see the rules of the game?\nEnter Y for yes, N for no: ")
+    if (choice == 'Y'):
+        print("The Knowlegde Competition consists of 10 questions, each woth of 10 points and each has an only one correct answer.")
+        print("Please be vary of case sensetivity when enterring answers.")
+        print("In order to win, you will need to answer 50% or more of the total questions correctly.")
+        print("Now that you are ready to play...The game will begin!")
+        print("-----------------------------------------------------------")
+    elif (choice == 'N'):
+        pass
+    else:
+        while (choice != 'Y' and choice == 'N'):
+            choice = input("Please enter a valid input: ")
 
-question_count = 1
-while (question_count <= 10):
-    print("Which category would you like question{} to be from?" .format(question_count))
-    print("Possible categories are Pop Culture, Sports, Literature, Music.")
-    category_choice = input("Please enter the category of your choice: ")
-    if (category_choice != "Pop Culture" and category_choice != "Sports" and category_choice != "Literature" and category_choice != "Music"):
-        category_choice = input("Please enter a valid choice: ")
-    import random as rnd
-    question_num = rnd.randint(1, 11)
-    categories(category_choice, question_num)
 
-    #print("Q1 (%s): %s" % (category_choice, question))
-    input("Enter your answer for the question: ")
+    question_count = 1
+    while (question_count <= 10):
+        print("Which category would you like question{} to be from?" .format(question_count))
+        print("Possible categories are Pop Culture, Sports, Literature, Music.")
+        category_choice = input("Please enter the category of your choice: ")
+        if (category_choice != "Pop Culture" and category_choice != "Sports" and category_choice != "Literature" and category_choice != "Music"):
+            category_choice = input("Please enter a valid choice: ")
+        import random as rnd
+        question_num = rnd.randint(1, 11)
+        categories(category_choice, question_num)
 
-    break
+        #print("Q1 (%s): %s" % (category_choice, question))
+        input("Enter your answer for the question: ")
+        question_count += 1
+        break
 
+
+
+if __name__ == '__main__':
+  main()
 
 
 
