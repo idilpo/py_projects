@@ -6,6 +6,7 @@
 # If the user answers more than 5 questions correctly, they will be considered successful.
 
 # STILL A WORK IN PROGRESS!!!
+'-' * 10
 
 def categories(category_choice, question_num):
     if (category_choice == 'Pop Culture'):

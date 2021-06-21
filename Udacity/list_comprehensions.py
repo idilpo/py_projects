@@ -20,3 +20,8 @@ scores = {
 
 passed = [name for name, score in scores.items() if score >= 65]
 print(passed)
+
+
+# generators in list comprehensions
+sq_list = [x**2 for x in range(10)]  # produces a list of squares
+sq_iterator = (x**2 for x in range(10))  # produces an iterator of squares
