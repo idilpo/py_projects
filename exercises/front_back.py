@@ -10,8 +10,8 @@ string1 = input("Input-1: ")
 string2 = input("Input-2: ")
 
 def front_back(a, b):
-    a_middle = len(a) / 2
-    b_middle = len(b) / 2
+    a_middle = len(a) // 2
+    b_middle = len(b) // 2
     if len(a) % 2 != 0:
         a_middle += 1
     if len(b) % 2 != 0:
