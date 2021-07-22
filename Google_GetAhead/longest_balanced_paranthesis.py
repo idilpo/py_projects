@@ -16,3 +16,5 @@ def longest_balanced(string):
 
 test1 = longest_balanced("))(())())")
 print(test1)
+test2 = longest_balanced("()((()))(()((")
+print(test2)
