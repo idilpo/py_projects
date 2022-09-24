@@ -1,0 +1,16 @@
+{
+	"key" : "value",
+	"name" : "Idil",
+	"favouriteNumber" : 11,
+	"isProgrammer" : true,
+	"hobbies" : ["Reading", "Swimming"],
+	"friends" : [{
+		"name" : "Ada",
+		"favouriteNumber" : 7,
+		"isProgrammer" : false,
+		"hobbies" : ["Painting", "Pottery"],
+		"friends" : [...]
+		}]
+
+
+}

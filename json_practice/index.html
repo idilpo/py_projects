@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JSON Example</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        let companies = [{
+                "name": "Big Corporation",
+                "numbersOfEmployees": 10000,
+                "CEO": "Idil",
+                "rating": 4.2
+            },
+
+            {
+                "name": "Another Corporation",
+                "numbersOfEmployees": 1000,
+                "CEO": "Bob",
+                "rating": 3.7
+            },
+
+            {
+                "name": "Small Startup",
+                "numbersOfEmployees": 10,
+                "CEO": null,
+                "rating": 4.7
+            }
+        ]
+
+        let companies_str = '[ 
+            {
+                "name": "Big Corporation",
+                "numbersOfEmployees": 10000,
+                "CEO": "Idil",
+                "rating": 4.2
+            },
+
+            {
+                "name": "Another Corporation",
+                "numbersOfEmployees": 1000,
+                "CEO": "Bob",
+                "rating": 3.7
+            },
+
+            {
+                "name": "Small Startup",
+                "numbersOfEmployees": 10,
+                "CEO": null,
+                "rating": 4.7
+            }
+
+        ]'
+
+        console.log(companies)
+        console.log(JSON.parse(companies_str))
+        console.log(JSON.parse(companies_str[0].name))
+    </script>
+</body>
+
+</html>

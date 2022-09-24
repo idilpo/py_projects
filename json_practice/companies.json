@@ -1,0 +1,23 @@
+[
+    {
+        "name"  : "Big Corporation",
+        "numbersOfEmployees" : 10000,
+        "CEO" : "Idil",
+        "rating": 4.2
+    },
+
+    {
+        "name"  : "Another Corporation",
+        "numbersOfEmployees" : 1000,
+        "CEO" : "Bob",
+        "rating": 3.7
+    },
+
+    {
+        "name"  : "Small Startup",
+        "numbersOfEmployees" : 10,
+        "CEO" : null,
+        "rating": 4.7
+    }
+
+]
