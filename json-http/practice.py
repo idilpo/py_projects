@@ -26,12 +26,12 @@ example = requests.get("https://httpbin.org/get", params=payload)
 # print(example.text)
 print(example.url)
 
-"""
+
 payload2 = {"username": "idilpo", "password": "idilpo"}
 example2 = requests.post("https://httpbin.org/get", data=payload2)
 print(example2.text)
 ex2_dict = example2.json()
 print(ex2_dict)
-"""
+
 
 

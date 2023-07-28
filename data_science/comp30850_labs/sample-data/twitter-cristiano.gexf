@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>20/11/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="BEAUcasperSMART" label="BEAUcasperSMART" />
+      <node id="Cristiano" label="Cristiano" />
+      <node id="CR7CrunchFitnes" label="CR7CrunchFitnes" />
+      <node id="DjokerNole" label="DjokerNole" />
+      <node id="DwyaneWade" label="DwyaneWade" />
+      <node id="FALCAO" label="FALCAO" />
+      <node id="Fabio_Coentrao" label="Fabio_Coentrao" />
+      <node id="FloydMayweather" label="FloydMayweather" />
+      <node id="Herbalife" label="Herbalife" />
+      <node id="IndiaMartinez" label="IndiaMartinez" />
+      <node id="JLo" label="JLo" />
+      <node id="JoaoMoutinho" label="JoaoMoutinho" />
+      <node id="KAKA" label="KAKA" />
+      <node id="LilTunechi" label="LilTunechi" />
+      <node id="MEOpt" label="MEOpt" />
+      <node id="Mark_Sanchez" label="Mark_Sanchez" />
+      <node id="MikeTyson" label="MikeTyson" />
+      <node id="PestanaCR7" label="PestanaCR7" />
+      <node id="RafaelNadal" label="RafaelNadal" />
+      <node id="RealLamarOdom" label="RealLamarOdom" />
+      <node id="RodolfoLanderos" label="RodolfoLanderos" />
+      <node id="SavetheChildren" label="SavetheChildren" />
+      <node id="StrikerForce7" label="StrikerForce7" />
+      <node id="TAGHeuer" label="TAGHeuer" />
+      <node id="TwitterVideo" label="TwitterVideo" />
+      <node id="XabiAlonso" label="XabiAlonso" />
+      <node id="aarbeloa17" label="aarbeloa17" />
+      <node id="altice_portugal" label="altice_portugal" />
+      <node id="daznglobal" label="daznglobal" />
+      <node id="enriqueiglesias" label="enriqueiglesias" />
+      <node id="insparya_es" label="insparya_es" />
+      <node id="instagram" label="instagram" />
+      <node id="jamesdrodriguez" label="jamesdrodriguez" />
+      <node id="justinbieber" label="justinbieber" />
+      <node id="juventusfc" label="juventusfc" />
+      <node id="ladygaga" label="ladygaga" />
+      <node id="luisnani" label="luisnani" />
+      <node id="nikefootball" label="nikefootball" />
+      <node id="obj" label="obj" />
+      <node id="ochocinco" label="ochocinco" />
+      <node id="officialpepe" label="officialpepe" />
+      <node id="piersmorgan" label="piersmorgan" />
+      <node id="polarissports_" label="polarissports_" />
+      <node id="rihanna" label="rihanna" />
+      <node id="rioferdy5" label="rioferdy5" />
+      <node id="selecaoportugal" label="selecaoportugal" />
+      <node id="shaunwhite" label="shaunwhite" />
+      <node id="sixpadeurope" label="sixpadeurope" />
+      <node id="tatelrestaurant" label="tatelrestaurant" />
+      <node id="ufc" label="ufc" />
+      <node id="visitmadeira" label="visitmadeira" />
+      <node id="yago" label="yago" />
+    </nodes>
+    <edges>
+      <edge id="0" source="BEAUcasperSMART" target="Cristiano" />
+      <edge id="1" source="BEAUcasperSMART" target="ufc" />
+      <edge id="2" source="Cristiano" target="BEAUcasperSMART" />
+      <edge id="3" source="Cristiano" target="CR7CrunchFitnes" />
+      <edge id="4" source="Cristiano" target="DjokerNole" />
+      <edge id="5" source="Cristiano" target="DwyaneWade" />
+      <edge id="6" source="Cristiano" target="FALCAO" />
+      <edge id="7" source="Cristiano" target="Fabio_Coentrao" />
+      <edge id="8" source="Cristiano" target="FloydMayweather" />
+      <edge id="9" source="Cristiano" target="Herbalife" />
+      <edge id="10" source="Cristiano" target="IndiaMartinez" />
+      <edge id="11" source="Cristiano" target="JLo" />
+      <edge id="12" source="Cristiano" target="JoaoMoutinho" />
+      <edge id="13" source="Cristiano" target="KAKA" />
+      <edge id="14" source="Cristiano" target="LilTunechi" />
+      <edge id="15" source="Cristiano" target="MEOpt" />
+      <edge id="16" source="Cristiano" target="Mark_Sanchez" />
+      <edge id="17" source="Cristiano" target="MikeTyson" />
+      <edge id="18" source="Cristiano" target="PestanaCR7" />
+      <edge id="19" source="Cristiano" target="RafaelNadal" />
+      <edge id="20" source="Cristiano" target="RealLamarOdom" />
+      <edge id="21" source="Cristiano" target="RodolfoLanderos" />
+      <edge id="22" source="Cristiano" target="SavetheChildren" />
+      <edge id="23" source="Cristiano" target="StrikerForce7" />
+      <edge id="24" source="Cristiano" target="TAGHeuer" />
+      <edge id="25" source="Cristiano" target="TwitterVideo" />
+      <edge id="26" source="Cristiano" target="XabiAlonso" />
+      <edge id="27" source="Cristiano" target="aarbeloa17" />
+      <edge id="28" source="Cristiano" target="altice_portugal" />
+      <edge id="29" source="Cristiano" target="daznglobal" />
+      <edge id="30" source="Cristiano" target="enriqueiglesias" />
+      <edge id="31" source="Cristiano" target="insparya_es" />
+      <edge id="32" source="Cristiano" target="instagram" />
+      <edge id="33" source="Cristiano" target="jamesdrodriguez" />
+      <edge id="34" source="Cristiano" target="justinbieber" />
+      <edge id="35" source="Cristiano" target="juventusfc" />
+      <edge id="36" source="Cristiano" target="ladygaga" />
+      <edge id="37" source="Cristiano" target="luisnani" />
+      <edge id="38" source="Cristiano" target="nikefootball" />
+      <edge id="39" source="Cristiano" target="obj" />
+      <edge id="40" source="Cristiano" target="ochocinco" />
+      <edge id="41" source="Cristiano" target="officialpepe" />
+      <edge id="42" source="Cristiano" target="piersmorgan" />
+      <edge id="43" source="Cristiano" target="polarissports_" />
+      <edge id="44" source="Cristiano" target="rihanna" />
+      <edge id="45" source="Cristiano" target="rioferdy5" />
+      <edge id="46" source="Cristiano" target="selecaoportugal" />
+      <edge id="47" source="Cristiano" target="shaunwhite" />
+      <edge id="48" source="Cristiano" target="sixpadeurope" />
+      <edge id="49" source="Cristiano" target="tatelrestaurant" />
+      <edge id="50" source="Cristiano" target="ufc" />
+      <edge id="51" source="Cristiano" target="visitmadeira" />
+      <edge id="52" source="Cristiano" target="yago" />
+      <edge id="53" source="CR7CrunchFitnes" target="Cristiano" />
+      <edge id="54" source="CR7CrunchFitnes" target="insparya_es" />
+      <edge id="55" source="DjokerNole" target="Cristiano" />
+      <edge id="56" source="DjokerNole" target="DwyaneWade" />
+      <edge id="57" source="DjokerNole" target="FALCAO" />
+      <edge id="58" source="DjokerNole" target="KAKA" />
+      <edge id="59" source="DjokerNole" target="MikeTyson" />
+      <edge id="60" source="DjokerNole" target="RafaelNadal" />
+      <edge id="61" source="DjokerNole" target="enriqueiglesias" />
+      <edge id="62" source="DwyaneWade" target="Cristiano" />
+      <edge id="63" source="DwyaneWade" target="FloydMayweather" />
+      <edge id="64" source="DwyaneWade" target="JLo" />
+      <edge id="65" source="DwyaneWade" target="LilTunechi" />
+      <edge id="66" source="DwyaneWade" target="RealLamarOdom" />
+      <edge id="67" source="DwyaneWade" target="instagram" />
+      <edge id="68" source="DwyaneWade" target="justinbieber" />
+      <edge id="69" source="DwyaneWade" target="ochocinco" />
+      <edge id="70" source="DwyaneWade" target="rihanna" />
+      <edge id="71" source="FALCAO" target="Cristiano" />
+      <edge id="72" source="FALCAO" target="DjokerNole" />
+      <edge id="73" source="FALCAO" target="JLo" />
+      <edge id="74" source="FALCAO" target="JoaoMoutinho" />
+      <edge id="75" source="FALCAO" target="KAKA" />
+      <edge id="76" source="FALCAO" target="RafaelNadal" />
+      <edge id="77" source="FALCAO" target="XabiAlonso" />
+      <edge id="78" source="FALCAO" target="aarbeloa17" />
+      <edge id="79" source="FALCAO" target="enriqueiglesias" />
+      <edge id="80" source="FALCAO" target="instagram" />
+      <edge id="81" source="FALCAO" target="jamesdrodriguez" />
+      <edge id="82" source="FALCAO" target="luisnani" />
+      <edge id="83" source="FALCAO" target="nikefootball" />
+      <edge id="84" source="FALCAO" target="ochocinco" />
+      <edge id="85" source="FALCAO" target="rioferdy5" />
+      <edge id="86" source="Fabio_Coentrao" target="Cristiano" />
+      <edge id="87" source="Fabio_Coentrao" target="officialpepe" />
+      <edge id="88" source="Fabio_Coentrao" target="polarissports_" />
+      <edge id="89" source="FloydMayweather" target="Cristiano" />
+      <edge id="90" source="FloydMayweather" target="DwyaneWade" />
+      <edge id="91" source="FloydMayweather" target="RealLamarOdom" />
+      <edge id="92" source="FloydMayweather" target="ochocinco" />
+      <edge id="93" source="FloydMayweather" target="piersmorgan" />
+      <edge id="94" source="FloydMayweather" target="rihanna" />
+      <edge id="95" source="FloydMayweather" target="rioferdy5" />
+      <edge id="96" source="Herbalife" target="Cristiano" />
+      <edge id="97" source="IndiaMartinez" target="Cristiano" />
+      <edge id="98" source="IndiaMartinez" target="JLo" />
+      <edge id="99" source="IndiaMartinez" target="RafaelNadal" />
+      <edge id="100" source="IndiaMartinez" target="enriqueiglesias" />
+      <edge id="101" source="JLo" target="Cristiano" />
+      <edge id="102" source="JLo" target="enriqueiglesias" />
+      <edge id="103" source="JLo" target="justinbieber" />
+      <edge id="104" source="JLo" target="rihanna" />
+      <edge id="105" source="JoaoMoutinho" target="Cristiano" />
+      <edge id="106" source="JoaoMoutinho" target="FALCAO" />
+      <edge id="107" source="JoaoMoutinho" target="Fabio_Coentrao" />
+      <edge id="108" source="JoaoMoutinho" target="jamesdrodriguez" />
+      <edge id="109" source="JoaoMoutinho" target="officialpepe" />
+      <edge id="110" source="JoaoMoutinho" target="polarissports_" />
+      <edge id="111" source="JoaoMoutinho" target="selecaoportugal" />
+      <edge id="112" source="KAKA" target="Cristiano" />
+      <edge id="113" source="KAKA" target="DjokerNole" />
+      <edge id="114" source="KAKA" target="MikeTyson" />
+      <edge id="115" source="KAKA" target="RafaelNadal" />
+      <edge id="116" source="KAKA" target="XabiAlonso" />
+      <edge id="117" source="KAKA" target="instagram" />
+      <edge id="118" source="KAKA" target="justinbieber" />
+      <edge id="119" source="KAKA" target="rihanna" />
+      <edge id="120" source="LilTunechi" target="Cristiano" />
+      <edge id="121" source="MEOpt" target="Cristiano" />
+      <edge id="122" source="MEOpt" target="Fabio_Coentrao" />
+      <edge id="123" source="MEOpt" target="JoaoMoutinho" />
+      <edge id="124" source="MEOpt" target="altice_portugal" />
+      <edge id="125" source="MEOpt" target="justinbieber" />
+      <edge id="126" source="MEOpt" target="ladygaga" />
+      <edge id="127" source="MEOpt" target="luisnani" />
+      <edge id="128" source="MEOpt" target="officialpepe" />
+      <edge id="129" source="MEOpt" target="selecaoportugal" />
+      <edge id="130" source="Mark_Sanchez" target="Cristiano" />
+      <edge id="131" source="Mark_Sanchez" target="KAKA" />
+      <edge id="132" source="Mark_Sanchez" target="RafaelNadal" />
+      <edge id="133" source="Mark_Sanchez" target="RealLamarOdom" />
+      <edge id="134" source="Mark_Sanchez" target="justinbieber" />
+      <edge id="135" source="Mark_Sanchez" target="nikefootball" />
+      <edge id="136" source="MikeTyson" target="Cristiano" />
+      <edge id="137" source="MikeTyson" target="KAKA" />
+      <edge id="138" source="MikeTyson" target="justinbieber" />
+      <edge id="139" source="MikeTyson" target="luisnani" />
+      <edge id="140" source="MikeTyson" target="piersmorgan" />
+      <edge id="141" source="PestanaCR7" target="Cristiano" />
+      <edge id="142" source="PestanaCR7" target="visitmadeira" />
+      <edge id="143" source="RafaelNadal" target="Cristiano" />
+      <edge id="144" source="RafaelNadal" target="DjokerNole" />
+      <edge id="145" source="RafaelNadal" target="tatelrestaurant" />
+      <edge id="146" source="RealLamarOdom" target="Cristiano" />
+      <edge id="147" source="RealLamarOdom" target="DwyaneWade" />
+      <edge id="148" source="RealLamarOdom" target="FloydMayweather" />
+      <edge id="149" source="RealLamarOdom" target="LilTunechi" />
+      <edge id="150" source="RealLamarOdom" target="justinbieber" />
+      <edge id="151" source="RodolfoLanderos" target="Cristiano" />
+      <edge id="152" source="RodolfoLanderos" target="DjokerNole" />
+      <edge id="153" source="RodolfoLanderos" target="DwyaneWade" />
+      <edge id="154" source="RodolfoLanderos" target="FALCAO" />
+      <edge id="155" source="RodolfoLanderos" target="FloydMayweather" />
+      <edge id="156" source="RodolfoLanderos" target="KAKA" />
+      <edge id="157" source="RodolfoLanderos" target="MikeTyson" />
+      <edge id="158" source="RodolfoLanderos" target="RafaelNadal" />
+      <edge id="159" source="RodolfoLanderos" target="XabiAlonso" />
+      <edge id="160" source="RodolfoLanderos" target="aarbeloa17" />
+      <edge id="161" source="RodolfoLanderos" target="jamesdrodriguez" />
+      <edge id="162" source="RodolfoLanderos" target="obj" />
+      <edge id="163" source="RodolfoLanderos" target="ochocinco" />
+      <edge id="164" source="RodolfoLanderos" target="officialpepe" />
+      <edge id="165" source="RodolfoLanderos" target="piersmorgan" />
+      <edge id="166" source="RodolfoLanderos" target="rioferdy5" />
+      <edge id="167" source="RodolfoLanderos" target="selecaoportugal" />
+      <edge id="168" source="RodolfoLanderos" target="ufc" />
+      <edge id="169" source="SavetheChildren" target="JLo" />
+      <edge id="170" source="SavetheChildren" target="RafaelNadal" />
+      <edge id="171" source="SavetheChildren" target="TwitterVideo" />
+      <edge id="172" source="SavetheChildren" target="enriqueiglesias" />
+      <edge id="173" source="SavetheChildren" target="instagram" />
+      <edge id="174" source="SavetheChildren" target="justinbieber" />
+      <edge id="175" source="SavetheChildren" target="ladygaga" />
+      <edge id="176" source="SavetheChildren" target="rihanna" />
+      <edge id="177" source="StrikerForce7" target="Cristiano" />
+      <edge id="178" source="StrikerForce7" target="juventusfc" />
+      <edge id="179" source="TAGHeuer" target="Cristiano" />
+      <edge id="180" source="TAGHeuer" target="TwitterVideo" />
+      <edge id="181" source="XabiAlonso" target="Cristiano" />
+      <edge id="182" source="XabiAlonso" target="DjokerNole" />
+      <edge id="183" source="XabiAlonso" target="KAKA" />
+      <edge id="184" source="XabiAlonso" target="RafaelNadal" />
+      <edge id="185" source="XabiAlonso" target="aarbeloa17" />
+      <edge id="186" source="XabiAlonso" target="jamesdrodriguez" />
+      <edge id="187" source="XabiAlonso" target="officialpepe" />
+      <edge id="188" source="aarbeloa17" target="Cristiano" />
+      <edge id="189" source="aarbeloa17" target="FALCAO" />
+      <edge id="190" source="aarbeloa17" target="KAKA" />
+      <edge id="191" source="aarbeloa17" target="RodolfoLanderos" />
+      <edge id="192" source="aarbeloa17" target="XabiAlonso" />
+      <edge id="193" source="aarbeloa17" target="jamesdrodriguez" />
+      <edge id="194" source="altice_portugal" target="Cristiano" />
+      <edge id="195" source="altice_portugal" target="MEOpt" />
+      <edge id="196" source="daznglobal" target="Cristiano" />
+      <edge id="197" source="daznglobal" target="FloydMayweather" />
+      <edge id="198" source="daznglobal" target="juventusfc" />
+      <edge id="199" source="daznglobal" target="ufc" />
+      <edge id="200" source="enriqueiglesias" target="Cristiano" />
+      <edge id="201" source="enriqueiglesias" target="DjokerNole" />
+      <edge id="202" source="enriqueiglesias" target="IndiaMartinez" />
+      <edge id="203" source="enriqueiglesias" target="JLo" />
+      <edge id="204" source="enriqueiglesias" target="LilTunechi" />
+      <edge id="205" source="enriqueiglesias" target="SavetheChildren" />
+      <edge id="206" source="enriqueiglesias" target="justinbieber" />
+      <edge id="207" source="enriqueiglesias" target="tatelrestaurant" />
+      <edge id="208" source="insparya_es" target="Cristiano" />
+      <edge id="209" source="instagram" target="JLo" />
+      <edge id="210" source="jamesdrodriguez" target="Cristiano" />
+      <edge id="211" source="jamesdrodriguez" target="FALCAO" />
+      <edge id="212" source="jamesdrodriguez" target="JoaoMoutinho" />
+      <edge id="213" source="jamesdrodriguez" target="XabiAlonso" />
+      <edge id="214" source="jamesdrodriguez" target="aarbeloa17" />
+      <edge id="215" source="jamesdrodriguez" target="officialpepe" />
+      <edge id="216" source="jamesdrodriguez" target="rihanna" />
+      <edge id="217" source="justinbieber" target="Cristiano" />
+      <edge id="218" source="justinbieber" target="DwyaneWade" />
+      <edge id="219" source="justinbieber" target="FloydMayweather" />
+      <edge id="220" source="justinbieber" target="JLo" />
+      <edge id="221" source="justinbieber" target="KAKA" />
+      <edge id="222" source="justinbieber" target="Mark_Sanchez" />
+      <edge id="223" source="justinbieber" target="MikeTyson" />
+      <edge id="224" source="justinbieber" target="RealLamarOdom" />
+      <edge id="225" source="justinbieber" target="SavetheChildren" />
+      <edge id="226" source="justinbieber" target="enriqueiglesias" />
+      <edge id="227" source="justinbieber" target="ladygaga" />
+      <edge id="228" source="justinbieber" target="obj" />
+      <edge id="229" source="justinbieber" target="ochocinco" />
+      <edge id="230" source="justinbieber" target="piersmorgan" />
+      <edge id="231" source="justinbieber" target="rihanna" />
+      <edge id="232" source="justinbieber" target="rioferdy5" />
+      <edge id="233" source="justinbieber" target="yago" />
+      <edge id="234" source="juventusfc" target="Cristiano" />
+      <edge id="235" source="ladygaga" target="SavetheChildren" />
+      <edge id="236" source="ladygaga" target="rihanna" />
+      <edge id="237" source="luisnani" target="Cristiano" />
+      <edge id="238" source="luisnani" target="JoaoMoutinho" />
+      <edge id="239" source="luisnani" target="KAKA" />
+      <edge id="240" source="luisnani" target="MikeTyson" />
+      <edge id="241" source="luisnani" target="TAGHeuer" />
+      <edge id="242" source="luisnani" target="ochocinco" />
+      <edge id="243" source="luisnani" target="rioferdy5" />
+      <edge id="244" source="luisnani" target="selecaoportugal" />
+      <edge id="245" source="nikefootball" target="Cristiano" />
+      <edge id="246" source="nikefootball" target="rioferdy5" />
+      <edge id="247" source="nikefootball" target="selecaoportugal" />
+      <edge id="248" source="obj" target="JLo" />
+      <edge id="249" source="obj" target="LilTunechi" />
+      <edge id="250" source="obj" target="TwitterVideo" />
+      <edge id="251" source="obj" target="ochocinco" />
+      <edge id="252" source="obj" target="ufc" />
+      <edge id="253" source="ochocinco" target="Cristiano" />
+      <edge id="254" source="ochocinco" target="DwyaneWade" />
+      <edge id="255" source="ochocinco" target="FALCAO" />
+      <edge id="256" source="ochocinco" target="FloydMayweather" />
+      <edge id="257" source="ochocinco" target="justinbieber" />
+      <edge id="258" source="ochocinco" target="luisnani" />
+      <edge id="259" source="ochocinco" target="obj" />
+      <edge id="260" source="ochocinco" target="rioferdy5" />
+      <edge id="261" source="ochocinco" target="ufc" />
+      <edge id="262" source="officialpepe" target="Cristiano" />
+      <edge id="263" source="officialpepe" target="Fabio_Coentrao" />
+      <edge id="264" source="officialpepe" target="jamesdrodriguez" />
+      <edge id="265" source="officialpepe" target="selecaoportugal" />
+      <edge id="266" source="piersmorgan" target="Cristiano" />
+      <edge id="267" source="piersmorgan" target="FloydMayweather" />
+      <edge id="268" source="piersmorgan" target="MikeTyson" />
+      <edge id="269" source="piersmorgan" target="rioferdy5" />
+      <edge id="270" source="polarissports_" target="Cristiano" />
+      <edge id="271" source="polarissports_" target="FALCAO" />
+      <edge id="272" source="polarissports_" target="Fabio_Coentrao" />
+      <edge id="273" source="polarissports_" target="Herbalife" />
+      <edge id="274" source="polarissports_" target="JoaoMoutinho" />
+      <edge id="275" source="polarissports_" target="PestanaCR7" />
+      <edge id="276" source="polarissports_" target="SavetheChildren" />
+      <edge id="277" source="polarissports_" target="StrikerForce7" />
+      <edge id="278" source="polarissports_" target="TAGHeuer" />
+      <edge id="279" source="polarissports_" target="daznglobal" />
+      <edge id="280" source="polarissports_" target="jamesdrodriguez" />
+      <edge id="281" source="polarissports_" target="juventusfc" />
+      <edge id="282" source="polarissports_" target="nikefootball" />
+      <edge id="283" source="polarissports_" target="officialpepe" />
+      <edge id="284" source="polarissports_" target="selecaoportugal" />
+      <edge id="285" source="polarissports_" target="visitmadeira" />
+      <edge id="286" source="rihanna" target="Cristiano" />
+      <edge id="287" source="rihanna" target="FloydMayweather" />
+      <edge id="288" source="rihanna" target="ladygaga" />
+      <edge id="289" source="rioferdy5" target="Cristiano" />
+      <edge id="290" source="rioferdy5" target="FloydMayweather" />
+      <edge id="291" source="rioferdy5" target="KAKA" />
+      <edge id="292" source="rioferdy5" target="TwitterVideo" />
+      <edge id="293" source="rioferdy5" target="instagram" />
+      <edge id="294" source="rioferdy5" target="justinbieber" />
+      <edge id="295" source="rioferdy5" target="ladygaga" />
+      <edge id="296" source="rioferdy5" target="luisnani" />
+      <edge id="297" source="rioferdy5" target="ochocinco" />
+      <edge id="298" source="rioferdy5" target="piersmorgan" />
+      <edge id="299" source="selecaoportugal" target="Cristiano" />
+      <edge id="300" source="selecaoportugal" target="Fabio_Coentrao" />
+      <edge id="301" source="selecaoportugal" target="JoaoMoutinho" />
+      <edge id="302" source="selecaoportugal" target="MEOpt" />
+      <edge id="303" source="selecaoportugal" target="luisnani" />
+      <edge id="304" source="selecaoportugal" target="nikefootball" />
+      <edge id="305" source="selecaoportugal" target="officialpepe" />
+      <edge id="306" source="sixpadeurope" target="Cristiano" />
+      <edge id="307" source="tatelrestaurant" target="Cristiano" />
+      <edge id="308" source="tatelrestaurant" target="RafaelNadal" />
+      <edge id="309" source="tatelrestaurant" target="XabiAlonso" />
+      <edge id="310" source="tatelrestaurant" target="enriqueiglesias" />
+      <edge id="311" source="tatelrestaurant" target="instagram" />
+      <edge id="312" source="ufc" target="Cristiano" />
+      <edge id="313" source="ufc" target="BEAUcasperSMART" />
+      <edge id="314" source="ufc" target="DwyaneWade" />
+      <edge id="315" source="ufc" target="FALCAO" />
+      <edge id="316" source="ufc" target="Fabio_Coentrao" />
+      <edge id="317" source="ufc" target="FloydMayweather" />
+      <edge id="318" source="ufc" target="JLo" />
+      <edge id="319" source="ufc" target="JoaoMoutinho" />
+      <edge id="320" source="ufc" target="KAKA" />
+      <edge id="321" source="ufc" target="LilTunechi" />
+      <edge id="322" source="ufc" target="Mark_Sanchez" />
+      <edge id="323" source="ufc" target="MikeTyson" />
+      <edge id="324" source="ufc" target="RealLamarOdom" />
+      <edge id="325" source="ufc" target="RodolfoLanderos" />
+      <edge id="326" source="ufc" target="TwitterVideo" />
+      <edge id="327" source="ufc" target="XabiAlonso" />
+      <edge id="328" source="ufc" target="enriqueiglesias" />
+      <edge id="329" source="ufc" target="instagram" />
+      <edge id="330" source="ufc" target="jamesdrodriguez" />
+      <edge id="331" source="ufc" target="justinbieber" />
+      <edge id="332" source="ufc" target="luisnani" />
+      <edge id="333" source="ufc" target="obj" />
+      <edge id="334" source="ufc" target="ochocinco" />
+      <edge id="335" source="ufc" target="officialpepe" />
+      <edge id="336" source="ufc" target="piersmorgan" />
+      <edge id="337" source="ufc" target="rioferdy5" />
+      <edge id="338" source="ufc" target="selecaoportugal" />
+      <edge id="339" source="ufc" target="shaunwhite" />
+      <edge id="340" source="visitmadeira" target="Cristiano" />
+      <edge id="341" source="yago" target="Cristiano" />
+      <edge id="342" source="yago" target="FloydMayweather" />
+      <edge id="343" source="yago" target="JLo" />
+      <edge id="344" source="yago" target="LilTunechi" />
+      <edge id="345" source="yago" target="jamesdrodriguez" />
+      <edge id="346" source="yago" target="justinbieber" />
+      <edge id="347" source="yago" target="obj" />
+      <edge id="348" source="yago" target="officialpepe" />
+      <edge id="349" source="yago" target="rihanna" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,121 @@
+Level,Product,Type,Produced by,Needs,Production time (mins),Price Sold (max),XP Returned (from 1)
+1,Wheat,Crop,Field,N/A,2,36,1
+1,Egg,Produce,Livestock,Chicken Feed (1),20,180,2
+2,Corn,Crop,Field,N/A,5,72,1
+2,Bread,Produce,Bakery,Wheat (2),5,216,3
+3,Chicken Feed,Feed,Feed Mill,"Wheat (2), Corn (1)",5,72,1
+5,Soybean,Crop,Field,N/A,20,108,2
+6,Cow Feed,Feed,Feed Mill,"Soybean (2), Corn (1)",10,144,2
+6,Milk,Produce,Livestock,Cow Feed (1),60,324,3
+6,Cream,Produce,Dairy,Milk (1),20,504,6
+7,Sugarcane,Crop,Field,N/A,30,144,3
+7,Corn Bread,Produce,Bakery,"Corn (2), Egg (2)",30,720,8
+7,Brown Sugar,Produce,Sugar Mill,Sugarcane (1),20,324,4
+8,Popcorn,Produce,Popcorn Pot,Corn (2),30,324,4
+9,Carrot,Crop,Field,N/A,10,72,2
+9,Butter,Produce,Dairy,Milk (2),30,828,10
+9,Pancake,Produce,BBQ Grill,"Egg (3), Brown Sugar (1)",30,1080,13
+10,Pig Feed,Feed,Feed Mill,"Carrots (2), Soybean (1)",20,144,2
+10,Bacon,Produce,Livestock,Pig Feed (1),240,504,5
+10,Cookie,Produce,Bakery,"Egg (2), Wheat (2), Brown Sugar (1)",60,1044,13
+11,Bacon and Eggs,Produce,BBQ Grill,"Egg (4), Bacon (2)",60,2016,24
+12,Cheese,Produce,Dairy,Milk (3),60,1224,15
+13,Indigo,Crop,Field,N/A,120,252,5
+13,White Sugar,Produce,Sugar Mill,Sugarcane (2),40,504,6
+14,Carrot Pie,Produce,Pie Oven,"Carrots (3), Wheat (2), Egg (1)",60,828,10
+15,Pumpkin,Crop,Field,N/A,180,324,6
+15,Pumpkin Pie,Produce,Pie Oven,"Pumpkin (3), Wheat (2), Egg (1)",120,1584,19
+15,Apple,Crop,Tree,N/A,960,396,7
+16,Sheep Feed,Feed,Feed Mill,"Wheat (3), Soybean (1)",30,144,3
+16,Wool,Produce,Livestock,Sheep Feed (1),360,540,5
+16,Buttered Popcorn,Produce,Popcorn Pot,"Corn (2), Butter (1)",60,1260,15
+17,Sweater,Produce,Loom,Wool (2),120,1512,18
+18,Cotton,Crop,Field,N/A,150,282,6
+18,Bacon Pie,Produce,Pie Oven,"Bacon (3), Wheat (2), Egg (1)",180,2196,26
+18,Syrup,Produce,Sugar Mill,Sugarcane (4),90,900,11
+18,Cotton Fabric,Produce,Loom,Cotton (3),30,1080,13
+18,Hamburger,Produce,BBQ Grill,"Bacon (2), Bread (2)",120,1800,22
+19,Raspberry,Crop,Bush,N/A,1080,468,9
+19,Raspberry Muffin,Produce,Bakery,"Raspberry (2), Wheat (2), Egg (1)",45,1404,17
+19,Blue Woolly Hat,Produce,Loom,"Indigo (1), Wool (1)",60,1116,13
+19,Cotton Shirt,Produce,Sewing Machine,Cotton Fabric (3),45,2412,29
+20,Blue Sweater,Produce,Loom,"Indigo (2), Wool (2)",180,2088,25
+21,Carrot Cake,Produce,Cake Oven,"Carrot (2), Brown sugar (1), Butter (1)",90,1656,20
+21,Wooly Chaps,Produce,Sewing Machine,"Wool (3), Cotton Fabric (1)",90,3096,37
+21,Cherry,Crop,Tree,N/A,1620,684,13
+23,Cream Cake,Produce,Cake Oven,"Wheat (5), Cream (1), White Sugar (1)",180,2196,26
+23,Berry Cake,Produce,Cake Oven,"Cherry (2), Egg (1), Milk (1), Raspberry (1)",60,2556,31
+24,Cheese Cake,Produce,Cake Oven,"Cheese (1), Cookie (1)",240,2844,34
+24,Silver Ore,Produce,Mine,Supplies,0,180,5
+24,Gold Ore,Produce,Mine,Supplies,0,216,6
+24,Platinum Ore,Produce,Mine,Supplies,0,324,7
+24,Silver Bar,Produce,Smelter,Silver Ore (3),480,1476,18
+25,Chili Pepper,Crop,Field,N/A,240,360,7
+25,Chili Popcorn,Produce,Popcorn Pot,"Chili Pepper (2), Corn (2)",120,1224,15
+25,Gold Bar,Produce,Smelter,Gold Ore (3),720,1800,21
+25,Platinum Bar,Produce,Smelter,Platinum Ore (3),960,2052,24
+25,Violet Dress,Produce,Sewing Machine,"Cotton Fabric (2), Indigo (1),Raspberry (1)",135,3276,39
+26,Blackberry,Crop,Bush,N/A,1448,828,16
+26,Blackberry Muffin,Produce,Bakery,"Blackberry (2), Egg (2), Wheat (1)",45,2268,27
+26,Carrot Juice,Produce,Juice Press,Carrot (3),30,468,6
+27,Fish Fillet,Produce,Lake,Supplies,1220,540,4
+27,Fish Burger,Produce,BBQ Grill,"Bread (2), Fish Fillet (2), Chili Pepper (1)",120,2268,27
+28,Apple Pie,Produce,Pie Oven,"Apple (3), Wheat (2), Egg (1), Syrup (1)",150,2700,32
+28,Fish Pie,Produce,Pie Oven,"Fish Fillet (3), Wheat (2), Egg (1)",120,2268,27
+28,Apple Juice,Produce,Juice Press,Apple (2),120,1296,15
+29,Vanilla Icecream,Produce,Cake Oven,"Cream (1), Milk (1), White Sugar (1)",120,1728,20
+30,Tomato,Crop,Field,N/A,720,432,8
+30,Roasted Tomato,Produce,BBQ Grill,Tomato (2),90,1188,14
+30,Cherry Juice,Produce,Juice Press,Cherry (2),150,2160,26
+31,Tomato Juice,Produce,Juice Press,Tomato (3),90,1620,19
+31,Cherry Juice,Produce,Juice Press,"Blackberry (1), Raspberry (1)",180,2052,24
+32,Goat Feed,Feed,Feed Mill,"Carrot (2), Corn (1), Wheat (1)",40,144,3
+32,Goat Milk,Produce,Livestock,Goat Feed (1),480,648,6
+33,Goat Cheese,Produce,Dairy,Goat Milk (2),90,1620,19
+33,Pizza,Produce,Bakery,"Wheat (2), Cheese (1), Tomato (1)",15,1908,23
+33,Coal,Produce,Mine,Supplies,0,108,3
+33,Refined Coal,Produce,Smelter,Coal (3),360,1080,13
+33,Cherry Popsicle,Produce,Icecream Maker,"Cherry Juice (1), Syrup (1)",180,3528,42
+34,Strawberry,Crop,Field,N/A,480,504,10
+34,Feta Pie,Produce,Pie Oven,"Wheat (2), Egg (1), Goat Cheese (1)",90,2232,26
+34,Iron Ore,Produce,Mine,Supplies,0,144,4
+34,Iron Bar,Produce,Smelter,Iron Ore (3),420,1296,15
+34,Strawberry Icecream,Produce,Icecream Maker,"Strawberry (3), Cream (1), Milk (1), White Sugar (1)",240,3312,40
+35,Potato,Crop,Field,N/A,220,360,7
+35,Strawberry Cake,Produce,Cake Oven,"Wheat (3), Strawberry (2), Cream (1), White Sugar (1)",180,3168,38
+35,Baked Potato,Produce,BBQ Grill,"Potato (2), Cheese (1), Chili Pepper (1), Cream (1)",35,2988,36
+35,Apple Jam,Produce,Jam Maker,Apple (3),360,2196,26
+36,Chocolate Cake,Produce,Cake Oven,"Cacao (2), Brown Sugar (1), Butter (1)",120,3204,38
+36,Casserole,Produce,Pie Oven,"Bacon (2), Egg (2), Potato (2), Cheese (1)",120,3672,44
+36,Cacao,Crop,Tree,N/A,2040,864,16
+36,Raspberry Jam,Produce,Jam Maker,Raspberry (3),420,2520,30
+37,Spicy Pizza,Produce,Bakery,"Wheat (2), Cheese (1), Chili Pepper (1), Tomato (1)",15,2268,27
+37,Blackberry Jam,Produce,Jam Maker,Blackberry (3),480,3888,46
+38,Potato Feta Cake,Produce,Cake Oven,"Egg (4), Goat Cheese (1), Potato (1)",120,3096,37
+38,Cherry Jam,Produce,Jam Maker,Cherry (3),420,3348,40
+38,Bracelet,Produce,Jeweler,"Silver Bar (2), Gold Bar (1)",120,5148,61
+39,Potato Bread,Produce,Bakery,"Egg (3), Potato (2), Butter (1), White Sugar (1)",45,2844,34
+39,Shephard's Pie,Produce,Pie Oven,"Bacon (2), Carrot (2), Potato (2), Pumpkin (2)",100,2808,34
+39,Chocolate Icecream,Produce,Icecream Maker,"Cacao (2), Cream (1), Milk (1), White Sugar (1)",150,3420,41
+39,Honeycomb,Produce,Beehive,N/A,0,684,8
+39,Necklace,Produce,Jeweler,"Silver Bar (2), Gold Bar (1), Platinum Bar (1)",180,7272,87
+39,Honey,Produce,Honey Extractor,Honeycomb (2),20,1548,19
+40,Honey Popcorn,Produce,Popcorn Pot,"Corn (2), Honey (2)",90,3600,43
+40,Diamond Ring,Produce,Jeweler,"Gold Bar (2), Platinum Bar (2), Diamond (1)",240,8244,98
+41,Fish and Chips,Produce,BBQ Grill,"Potato (3), Fish Fillet (2)",90,2448,29
+41,Iron Bracelet,Produce,Jeweler,"Iron Bar (2), Refined Coal (2), Silver Bar (1)",90,6588,79
+42,Coffee Bean,Crop,Bush,N/A,1500,648,12
+42,Espresso,Produce,Coffee Kiosk,"Coffee Bean (3), White Sugar (1)",5,2484,29
+42,Honey Apple Cake,Produce,Cake Oven,"Apple (2), Egg (2), Honey (2), Wheat (2)",200,4824,57
+43,Coffee Latte,Produce,Coffee Kiosk,"Coffee Bean (2), Milk (1), White Sugar (1)",10,2196,26
+44,Chocolate Popcorn,Produce,Popcorn Pot,"Cacao (2), Corn (2)",150,2484,29
+44,Lobster Tail,Produce,Lake,N/A,360,2016,24
+45,Frutti di Mare Pizza,Produce,Bakery,"Wheat (2), Cheese (1), Fish Fillet (1), Lobster Tail (1)",15,4032,48
+45,Caffe Mocha,Produce,Coffee Kiosk,"Cacao (2), Coffee Bean (1), Cream (1)",15,2916,35
+46,Raspberry Mocha,Produce,Coffee Kiosk,"Cacao (1), Coffee Bean (1), Cream (1), Raspberry (1)",30,2592,31
+46,Lobster Soup,Produce,Soup Kitchen,"Chili Pepper (2), Lobster Tail (2), Cream (1), Tomato (1)",150,6120,73
+47,Hot Chocolate,Produce,Coffee Kiosk,"Cacao (2), Cream (1), Milk (1), White Sugar (1)",25,3168,38
+47,Tomato Soup,Produce,Soup Kitchen,"Tomato (2), Chili Pepper (1), Goat Cheese (1), Tomato Juice (1)",90,4788,57
+48,Red Scarf,Produce,Loom,"Strawberry (2), Wool (2)",150,2880,34
+48,Lobster Skewer,Produce,BBQ Grill,"Chili Pepper (1), Honey (1), Lobster Tail (1)",40,4176,50
+48,Beeswax,Produce,Honey Extractor,Honeycomb (3),45,2340,28

@@ -1,0 +1,22 @@
+0 Athenry
+1 Ballina
+2 Belfast
+3 Cobh
+4 Cork
+5 Dublin
+6 Dundalk
+7 Ennis
+8 Galway
+9 Gorey
+10 Limerick
+11 Longford
+12 Mallow
+13 Maynooth
+14 Midleton
+15 Nenagh
+16 Port Laoise
+17 Rosslare
+18 Sligo
+19 Tralee
+20 Waterford
+21 Westport

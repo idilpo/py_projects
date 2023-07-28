@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-02-24">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#fpd2019" label="#fpd2019" />
+      <node id="#foodscience" label="#foodscience" />
+      <node id="#helloucd" label="#helloucd" />
+      <node id="#ucdorientation" label="#ucdorientation" />
+      <node id="#ucdquinn" label="#ucdquinn" />
+      <node id="#futureoflearning" label="#futureoflearning" />
+      <node id="#ucdmoore" label="#ucdmoore" />
+      <node id="#midwifery" label="#midwifery" />
+      <node id="#nursing" label="#nursing" />
+      <node id="#agriculture" label="#agriculture" />
+      <node id="#forestry" label="#forestry" />
+      <node id="#computerscience" label="#computerscience" />
+      <node id="#csbacktothefuture" label="#csbacktothefuture" />
+      <node id="#archaeology" label="#archaeology" />
+      <node id="#irish" label="#irish" />
+      <node id="#csgradsreturn" label="#csgradsreturn" />
+      <node id="#futurejobs" label="#futurejobs" />
+      <node id="#ricsc2019" label="#ricsc2019" />
+      <node id="#researchimpact" label="#researchimpact" />
+      <node id="#food" label="#food" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#farmsafetyforum" label="#farmsafetyforum" />
+      <node id="#fbdchampionsforchange" label="#fbdchampionsforchange" />
+      <node id="#horticulture" label="#horticulture" />
+      <node id="#science" label="#science" />
+      <node id="#engineering" label="#engineering" />
+      <node id="#mathsweek" label="#mathsweek" />
+      <node id="#hamiltonday" label="#hamiltonday" />
+      <node id="#sdgs" label="#sdgs" />
+      <node id="#sustainabledevelopmentgoals" label="#sustainabledevelopmentgoals" />
+      <node id="#ucdopenday" label="#ucdopenday" />
+      <node id="#props" label="#props" />
+      <node id="#phd" label="#phd" />
+      <node id="#crt" label="#crt" />
+      <node id="#dublin" label="#dublin" />
+      <node id="#machinelearning" label="#machinelearning" />
+      <node id="#research" label="#research" />
+      <node id="#causalinference" label="#causalinference" />
+      <node id="#funded" label="#funded" />
+      <node id="#biostats" label="#biostats" />
+      <node id="#students" label="#students" />
+      <node id="#datascience" label="#datascience" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#fpd2019" target="#foodscience" weight="7" />
+      <edge id="1" source="#helloucd" target="#ucdorientation" weight="7" />
+      <edge id="2" source="#helloucd" target="#ucdquinn" weight="3" />
+      <edge id="3" source="#ucdquinn" target="#futureoflearning" weight="7" />
+      <edge id="4" source="#ucdquinn" target="#ucdmoore" weight="7" />
+      <edge id="5" source="#futureoflearning" target="#ucdmoore" weight="7" />
+      <edge id="6" source="#midwifery" target="#nursing" weight="4" />
+      <edge id="7" source="#agriculture" target="#forestry" weight="4" />
+      <edge id="8" source="#agriculture" target="#food" weight="3" />
+      <edge id="9" source="#agriculture" target="#nutrition" weight="3" />
+      <edge id="10" source="#forestry" target="#nutrition" weight="3" />
+      <edge id="11" source="#computerscience" target="#csbacktothefuture" weight="4" />
+      <edge id="12" source="#computerscience" target="#csgradsreturn" weight="3" />
+      <edge id="13" source="#computerscience" target="#futurejobs" weight="3" />
+      <edge id="14" source="#csbacktothefuture" target="#futurejobs" weight="3" />
+      <edge id="15" source="#csbacktothefuture" target="#csgradsreturn" weight="3" />
+      <edge id="16" source="#archaeology" target="#irish" weight="3" />
+      <edge id="17" source="#csgradsreturn" target="#futurejobs" weight="3" />
+      <edge id="18" source="#ricsc2019" target="#researchimpact" weight="3" />
+      <edge id="19" source="#nutrition" target="#horticulture" weight="3" />
+      <edge id="20" source="#farmsafetyforum" target="#fbdchampionsforchange" weight="3" />
+      <edge id="21" source="#science" target="#engineering" weight="3" />
+      <edge id="22" source="#science" target="#phd" weight="1" />
+      <edge id="23" source="#mathsweek" target="#hamiltonday" weight="3" />
+      <edge id="24" source="#sdgs" target="#sustainabledevelopmentgoals" weight="2" />
+      <edge id="25" source="#ucdopenday" target="#props" weight="2" />
+      <edge id="26" source="#phd" target="#crt" weight="2" />
+      <edge id="27" source="#phd" target="#dublin" weight="1" />
+      <edge id="28" source="#phd" target="#machinelearning" weight="1" />
+      <edge id="29" source="#phd" target="#research" weight="1" />
+      <edge id="30" source="#phd" target="#causalinference" weight="1" />
+      <edge id="31" source="#phd" target="#funded" weight="1" />
+      <edge id="32" source="#phd" target="#biostats" weight="1" />
+      <edge id="33" source="#phd" target="#students" weight="1" />
+      <edge id="34" source="#phd" target="#datascience" weight="1" />
+    </edges>
+  </graph>
+</gexf>

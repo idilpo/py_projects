@@ -1,0 +1,26 @@
+start,end,kind
+Belfast,Dublin,intercity
+Cobh,Cork,commuter
+Cork,Tralee,intercity
+Dublin,Ballina,intercity
+Dublin,Cork,intercity
+Dublin,Dundalk,commuter
+Dublin,Ennis,commuter
+Dublin,Galway,intercity
+Dublin,Gorey,commuter
+Dublin,Limerick,intercity
+Dublin,Longford,commuter
+Dublin,Maynooth,commuter
+Dublin,Port Laoise,commuter
+Dublin,Rosslare,intercity
+Dublin,Sligo,intercity
+Dublin,Tralee,intercity
+Dublin,Waterford,intercity
+Dublin,Westport,intercity
+Galway,Athenry,commuter
+Limerick,Ennis,intercity
+Limerick,Galway,intercity
+Limerick,Nenagh,commuter
+Limerick,Waterford,intercity
+Mallow,Cobh,commuter
+Mallow,Midleton,commuter

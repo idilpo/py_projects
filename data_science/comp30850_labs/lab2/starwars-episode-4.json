@@ -1,0 +1,312 @@
+{
+  "characters": [
+    {
+      "name": "C-3PO",
+      "id": 0
+    },
+    {
+      "name": "LUKE",
+      "id": 1
+    },
+    {
+      "name": "DARTH VADER",
+      "id": 2
+    },
+    {
+      "name": "CAMIE",
+      "id": 3
+    },
+    {
+      "name": "BIGGS",
+      "id": 4
+    },
+    {
+      "name": "LEIA",
+      "id": 5
+    },
+    {
+      "name": "BERU",
+      "id": 6
+    },
+    {
+      "name": "OWEN",
+      "id": 7
+    },
+    {
+      "name": "OBI-WAN",
+      "id": 8
+    },
+    {
+      "name": "MOTTI",
+      "id": 9
+    },
+    {
+      "name": "TARKIN",
+      "id": 10
+    },
+    {
+      "name": "HAN",
+      "id": 11
+    },
+    {
+      "name": "GREEDO",
+      "id": 12
+    },
+    {
+      "name": "JABBA",
+      "id": 13
+    },
+    {
+      "name": "DODONNA",
+      "id": 14
+    },
+    {
+      "name": "GOLD LEADER",
+      "id": 15
+    },
+    {
+      "name": "WEDGE",
+      "id": 16
+    },
+    {
+      "name": "RED LEADER",
+      "id": 17
+    },
+    {
+      "name": "RED TEN",
+      "id": 18
+    }
+  ],
+  "interactions": [
+    {
+      "id1": 3,
+      "id2": 1,
+      "frequency": 2
+    },
+    {
+      "id1": 4,
+      "id2": 3,
+      "frequency": 2
+    },
+    {
+      "id1": 4,
+      "id2": 1,
+      "frequency": 4
+    },
+    {
+      "id1": 2,
+      "id2": 5,
+      "frequency": 1
+    },
+    {
+      "id1": 6,
+      "id2": 1,
+      "frequency": 3
+    },
+    {
+      "id1": 6,
+      "id2": 7,
+      "frequency": 3
+    },
+    {
+      "id1": 6,
+      "id2": 0,
+      "frequency": 2
+    },
+    {
+      "id1": 1,
+      "id2": 7,
+      "frequency": 3
+    },
+    {
+      "id1": 0,
+      "id2": 1,
+      "frequency": 18
+    },
+    {
+      "id1": 0,
+      "id2": 7,
+      "frequency": 2
+    },
+    {
+      "id1": 0,
+      "id2": 5,
+      "frequency": 6
+    },
+    {
+      "id1": 5,
+      "id2": 1,
+      "frequency": 17
+    },
+    {
+      "id1": 6,
+      "id2": 5,
+      "frequency": 1
+    },
+    {
+      "id1": 1,
+      "id2": 8,
+      "frequency": 19
+    },
+    {
+      "id1": 0,
+      "id2": 8,
+      "frequency": 6
+    },
+    {
+      "id1": 5,
+      "id2": 8,
+      "frequency": 1
+    },
+    {
+      "id1": 9,
+      "id2": 10,
+      "frequency": 2
+    },
+    {
+      "id1": 2,
+      "id2": 9,
+      "frequency": 1
+    },
+    {
+      "id1": 2,
+      "id2": 10,
+      "frequency": 7
+    },
+    {
+      "id1": 11,
+      "id2": 8,
+      "frequency": 9
+    },
+    {
+      "id1": 11,
+      "id2": 1,
+      "frequency": 26
+    },
+    {
+      "id1": 12,
+      "id2": 11,
+      "frequency": 1
+    },
+    {
+      "id1": 11,
+      "id2": 13,
+      "frequency": 1
+    },
+    {
+      "id1": 0,
+      "id2": 11,
+      "frequency": 6
+    },
+    {
+      "id1": 5,
+      "id2": 9,
+      "frequency": 1
+    },
+    {
+      "id1": 5,
+      "id2": 10,
+      "frequency": 1
+    },
+    {
+      "id1": 11,
+      "id2": 5,
+      "frequency": 13
+    },
+    {
+      "id1": 2,
+      "id2": 8,
+      "frequency": 1
+    },
+    {
+      "id1": 14,
+      "id2": 15,
+      "frequency": 1
+    },
+    {
+      "id1": 14,
+      "id2": 16,
+      "frequency": 1
+    },
+    {
+      "id1": 14,
+      "id2": 1,
+      "frequency": 1
+    },
+    {
+      "id1": 15,
+      "id2": 16,
+      "frequency": 1
+    },
+    {
+      "id1": 15,
+      "id2": 1,
+      "frequency": 1
+    },
+    {
+      "id1": 1,
+      "id2": 16,
+      "frequency": 2
+    },
+    {
+      "id1": 4,
+      "id2": 5,
+      "frequency": 1
+    },
+    {
+      "id1": 5,
+      "id2": 17,
+      "frequency": 1
+    },
+    {
+      "id1": 1,
+      "id2": 17,
+      "frequency": 3
+    },
+    {
+      "id1": 4,
+      "id2": 17,
+      "frequency": 3
+    },
+    {
+      "id1": 4,
+      "id2": 0,
+      "frequency": 1
+    },
+    {
+      "id1": 0,
+      "id2": 17,
+      "frequency": 1
+    },
+    {
+      "id1": 17,
+      "id2": 16,
+      "frequency": 3
+    },
+    {
+      "id1": 15,
+      "id2": 17,
+      "frequency": 1
+    },
+    {
+      "id1": 4,
+      "id2": 16,
+      "frequency": 2
+    },
+    {
+      "id1": 17,
+      "id2": 18,
+      "frequency": 1
+    },
+    {
+      "id1": 4,
+      "id2": 15,
+      "frequency": 1
+    },
+    {
+      "id1": 1,
+      "id2": 18,
+      "frequency": 1
+    }
+  ]
+}

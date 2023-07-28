@@ -1,0 +1,117 @@
+[
+    {
+        "customer_id": "101",
+        "purchases": [
+            "Galaxy S10",
+            "Echo Auto",
+            "Fire TV Stick"
+        ]
+    },
+    {
+        "customer_id": "102",
+        "purchases": [
+            "Roku Ultra",
+            "Kindle Paperwhite"
+        ]
+    },
+    {
+        "customer_id": "103",
+        "purchases": [
+            "iMac 27in",
+            "Echo Dot"
+        ]
+    },
+    {
+        "customer_id": "104",
+        "purchases": [
+            "iPhone 11",
+            "Echo Auto"
+        ]
+    },
+    {
+        "customer_id": "105",
+        "purchases": [
+            "Fire TV Cube",
+            "iPod Touch",
+            "Macbook Pro 16in"
+        ]
+    },
+    {
+        "customer_id": "106",
+        "purchases": [
+            "Roku Premiere",
+            "Roku Ultra",
+            "Fire TV Cube"
+        ]
+    },
+    {
+        "customer_id": "107",
+        "purchases": [
+            "Roku Stick",
+            "Echo Show 8"
+        ]
+    },
+    {
+        "customer_id": "108",
+        "purchases": [
+            "Roku Premiere",
+            "Fire TV Cube"
+        ]
+    },
+    {
+        "customer_id": "109",
+        "purchases": [
+            "Macbook Pro 16in",
+            "Galaxy S9"
+        ]
+    },
+    {
+        "customer_id": "110",
+        "purchases": [
+            "Fire TV Cube",
+            "Fire TV Cube",
+            "Fire TV Stick",
+            "Echo Dot",
+            "Fire 7 Tablet"
+        ]
+    },
+    {
+        "customer_id": "111",
+        "purchases": [
+            "Macbook Pro 16in",
+            "Galaxy S9"
+        ]
+    },
+    {
+        "customer_id": "112",
+        "purchases": [
+            "Echo Dot",
+            "iPhone 11",
+            "Fire HD 8 Tablet"
+        ]
+    },
+    {
+        "customer_id": "113",
+        "purchases": [
+            "Nighthawk Router",
+            "Echo Auto",
+            "Galaxy S10"
+        ]
+    },
+    {
+        "customer_id": "114",
+        "purchases": [
+            "Roku Premiere",
+            "Echo Auto"
+        ]
+    },
+    {
+        "customer_id": "115",
+        "purchases": [
+            "Echo Show 8",
+            "Roku Express",
+            "Fujifilm Instax",
+            "iMac 27in"
+        ]
+    }
+]

@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="city" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ATL" label="ATL">
+        <attvalues>
+          <attvalue for="0" value="Atlanta, GA" />
+        </attvalues>
+      </node>
+      <node id="TUS" label="TUS">
+        <attvalues>
+          <attvalue for="0" value="Tucson, AZ" />
+        </attvalues>
+      </node>
+      <node id="ABE" label="ABE">
+        <attvalues>
+          <attvalue for="0" value="Allentown/Bethlehem/Easton, PA" />
+        </attvalues>
+      </node>
+      <node id="BED" label="BED">
+        <attvalues>
+          <attvalue for="0" value="Bedford, MA" />
+        </attvalues>
+      </node>
+      <node id="AMA" label="AMA">
+        <attvalues>
+          <attvalue for="0" value="Amarillo, TX" />
+        </attvalues>
+      </node>
+      <node id="PNS" label="PNS">
+        <attvalues>
+          <attvalue for="0" value="Pensacola, FL" />
+        </attvalues>
+      </node>
+      <node id="WLK" label="WLK">
+        <attvalues>
+          <attvalue for="0" value="Selawik, AK" />
+        </attvalues>
+      </node>
+      <node id="ALB" label="ALB">
+        <attvalues>
+          <attvalue for="0" value="Albany, NY" />
+        </attvalues>
+      </node>
+      <node id="BOS" label="BOS">
+        <attvalues>
+          <attvalue for="0" value="Boston, MA" />
+        </attvalues>
+      </node>
+      <node id="SAT" label="SAT">
+        <attvalues>
+          <attvalue for="0" value="San Antonio, TX" />
+        </attvalues>
+      </node>
+      <node id="SGF" label="SGF">
+        <attvalues>
+          <attvalue for="0" value="Springfield, MO" />
+        </attvalues>
+      </node>
+      <node id="MCO" label="MCO">
+        <attvalues>
+          <attvalue for="0" value="Orlando, FL" />
+        </attvalues>
+      </node>
+      <node id="ADQ" label="ADQ">
+        <attvalues>
+          <attvalue for="0" value="Kodiak, AK" />
+        </attvalues>
+      </node>
+      <node id="ABL" label="ABL">
+        <attvalues>
+          <attvalue for="0" value="Ambler, AK" />
+        </attvalues>
+      </node>
+      <node id="ANC" label="ANC">
+        <attvalues>
+          <attvalue for="0" value="Anchorage, AK" />
+        </attvalues>
+      </node>
+      <node id="SWF" label="SWF">
+        <attvalues>
+          <attvalue for="0" value="Newburgh/Poughkeepsie, NY" />
+        </attvalues>
+      </node>
+      <node id="TLH" label="TLH">
+        <attvalues>
+          <attvalue for="0" value="Tallahassee, FL" />
+        </attvalues>
+      </node>
+      <node id="TTN" label="TTN">
+        <attvalues>
+          <attvalue for="0" value="Trenton, NJ" />
+        </attvalues>
+      </node>
+      <node id="STT" label="STT">
+        <attvalues>
+          <attvalue for="0" value="Charlotte Amalie, VI" />
+        </attvalues>
+      </node>
+      <node id="ABY" label="ABY">
+        <attvalues>
+          <attvalue for="0" value="Albany, GA" />
+        </attvalues>
+      </node>
+      <node id="ONT" label="ONT">
+        <attvalues>
+          <attvalue for="0" value="Ontario, CA" />
+        </attvalues>
+      </node>
+      <node id="OTZ" label="OTZ">
+        <attvalues>
+          <attvalue for="0" value="Kotzebue, AK" />
+        </attvalues>
+      </node>
+      <node id="SDF" label="SDF">
+        <attvalues>
+          <attvalue for="0" value="Louisville, KY" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ATL" target="SDF" weight="5" />
+      <edge id="1" source="ATL" target="BOS" weight="5" />
+      <edge id="2" source="ATL" target="SAT" weight="4" />
+      <edge id="3" source="ATL" target="TUS" weight="2" />
+      <edge id="4" source="ATL" target="MCO" weight="6" />
+      <edge id="5" source="ATL" target="ALB" weight="2" />
+      <edge id="6" source="ATL" target="SGF" weight="3" />
+      <edge id="7" source="ATL" target="TTN" weight="1" />
+      <edge id="8" source="ATL" target="TLH" weight="3" />
+      <edge id="9" source="ATL" target="ABY" weight="1" />
+      <edge id="10" source="ATL" target="ABE" weight="2" />
+      <edge id="11" source="ATL" target="STT" weight="1" />
+      <edge id="12" source="ATL" target="PNS" weight="1" />
+      <edge id="13" source="TUS" target="BOS" weight="1" />
+      <edge id="14" source="TUS" target="MCO" weight="1" />
+      <edge id="15" source="TUS" target="SAT" weight="1" />
+      <edge id="16" source="TUS" target="ONT" weight="1" />
+      <edge id="17" source="TUS" target="ATL" weight="1" />
+      <edge id="18" source="ABE" target="ATL" weight="2" />
+      <edge id="19" source="BED" target="ATL" weight="1" />
+      <edge id="20" source="BED" target="SDF" weight="1" />
+      <edge id="21" source="BED" target="TLH" weight="1" />
+      <edge id="22" source="BED" target="MCO" weight="1" />
+      <edge id="23" source="AMA" target="SAT" weight="1" />
+      <edge id="24" source="AMA" target="TUS" weight="1" />
+      <edge id="25" source="PNS" target="ABY" weight="1" />
+      <edge id="26" source="PNS" target="SDF" weight="1" />
+      <edge id="27" source="PNS" target="BOS" weight="1" />
+      <edge id="28" source="PNS" target="SAT" weight="1" />
+      <edge id="29" source="PNS" target="MCO" weight="1" />
+      <edge id="30" source="PNS" target="ATL" weight="1" />
+      <edge id="31" source="WLK" target="ABL" weight="3" />
+      <edge id="32" source="WLK" target="OTZ" weight="4" />
+      <edge id="33" source="ALB" target="SDF" weight="2" />
+      <edge id="34" source="ALB" target="BOS" weight="3" />
+      <edge id="35" source="ALB" target="TUS" weight="1" />
+      <edge id="36" source="ALB" target="ATL" weight="2" />
+      <edge id="37" source="ALB" target="SAT" weight="1" />
+      <edge id="38" source="ALB" target="MCO" weight="2" />
+      <edge id="39" source="BOS" target="SDF" weight="1" />
+      <edge id="40" source="BOS" target="STT" weight="2" />
+      <edge id="41" source="BOS" target="ONT" weight="1" />
+      <edge id="42" source="BOS" target="MCO" weight="5" />
+      <edge id="43" source="BOS" target="SWF" weight="1" />
+      <edge id="44" source="BOS" target="SAT" weight="1" />
+      <edge id="45" source="BOS" target="ATL" weight="4" />
+      <edge id="46" source="BOS" target="ALB" weight="1" />
+      <edge id="47" source="SAT" target="SDF" weight="2" />
+      <edge id="48" source="SAT" target="AMA" weight="1" />
+      <edge id="49" source="SAT" target="BOS" weight="1" />
+      <edge id="50" source="SAT" target="MCO" weight="1" />
+      <edge id="51" source="SAT" target="ATL" weight="2" />
+      <edge id="52" source="SGF" target="SDF" weight="1" />
+      <edge id="53" source="SGF" target="ATL" weight="3" />
+      <edge id="54" source="MCO" target="ONT" weight="2" />
+      <edge id="55" source="MCO" target="SDF" weight="3" />
+      <edge id="56" source="MCO" target="SAT" weight="4" />
+      <edge id="57" source="MCO" target="ATL" weight="8" />
+      <edge id="58" source="MCO" target="TLH" weight="2" />
+      <edge id="59" source="MCO" target="BOS" weight="5" />
+      <edge id="60" source="MCO" target="TUS" weight="1" />
+      <edge id="61" source="MCO" target="PNS" weight="2" />
+      <edge id="62" source="MCO" target="STT" weight="1" />
+      <edge id="63" source="MCO" target="SWF" weight="1" />
+      <edge id="64" source="MCO" target="ALB" weight="2" />
+      <edge id="65" source="MCO" target="TTN" weight="1" />
+      <edge id="66" source="ADQ" target="ABL" weight="1" />
+      <edge id="67" source="ADQ" target="ANC" weight="8" />
+      <edge id="68" source="ABL" target="OTZ" weight="3" />
+      <edge id="69" source="ABL" target="WLK" weight="2" />
+      <edge id="70" source="ANC" target="OTZ" weight="6" />
+      <edge id="71" source="ANC" target="ONT" weight="1" />
+      <edge id="72" source="ANC" target="SDF" weight="1" />
+      <edge id="73" source="ANC" target="ADQ" weight="8" />
+      <edge id="74" source="SWF" target="MCO" weight="2" />
+      <edge id="75" source="SWF" target="ONT" weight="1" />
+      <edge id="76" source="SWF" target="SDF" weight="1" />
+      <edge id="77" source="SWF" target="BOS" weight="1" />
+      <edge id="78" source="TLH" target="ATL" weight="4" />
+      <edge id="79" source="TLH" target="MCO" weight="2" />
+      <edge id="80" source="TLH" target="BED" weight="1" />
+      <edge id="81" source="TLH" target="SDF" weight="1" />
+      <edge id="82" source="TTN" target="ATL" weight="1" />
+      <edge id="83" source="TTN" target="MCO" weight="1" />
+      <edge id="84" source="STT" target="BOS" weight="1" />
+      <edge id="85" source="STT" target="ATL" weight="1" />
+      <edge id="86" source="ABY" target="PNS" weight="1" />
+      <edge id="87" source="ABY" target="SDF" weight="1" />
+      <edge id="88" source="ABY" target="ATL" weight="1" />
+      <edge id="89" source="ONT" target="ANC" weight="1" />
+      <edge id="90" source="ONT" target="MCO" weight="3" />
+      <edge id="91" source="ONT" target="SDF" weight="2" />
+      <edge id="92" source="ONT" target="BOS" weight="1" />
+      <edge id="93" source="ONT" target="TUS" weight="1" />
+      <edge id="94" source="ONT" target="ATL" weight="1" />
+      <edge id="95" source="ONT" target="SAT" weight="1" />
+      <edge id="96" source="OTZ" target="ANC" weight="5" />
+      <edge id="97" source="OTZ" target="ABL" weight="3" />
+      <edge id="98" source="OTZ" target="WLK" weight="4" />
+      <edge id="99" source="SDF" target="ABY" weight="1" />
+      <edge id="100" source="SDF" target="ANC" weight="1" />
+      <edge id="101" source="SDF" target="ATL" weight="5" />
+      <edge id="102" source="SDF" target="BOS" weight="1" />
+      <edge id="103" source="SDF" target="MCO" weight="3" />
+      <edge id="104" source="SDF" target="ONT" weight="1" />
+      <edge id="105" source="SDF" target="PNS" weight="1" />
+      <edge id="106" source="SDF" target="SAT" weight="2" />
+      <edge id="107" source="SDF" target="SGF" weight="1" />
+      <edge id="108" source="SDF" target="SWF" weight="1" />
+      <edge id="109" source="SDF" target="TLH" weight="1" />
+    </edges>
+  </graph>
+</gexf>

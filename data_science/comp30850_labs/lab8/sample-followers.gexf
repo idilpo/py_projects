@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-02-23">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="quinnschoolucd" label="quinnschoolucd" />
+      <node id="ucd_english" label="ucd_english" />
+      <node id="ucdagfood" label="ucdagfood" />
+      <node id="ucdarchaeology" label="ucdarchaeology" />
+      <node id="ucdcompsci" label="ucdcompsci" />
+      <node id="ucdengarch" label="ucdengarch" />
+      <node id="ucdlawschool" label="ucdlawschool" />
+      <node id="ucdmathstat" label="ucdmathstat" />
+      <node id="ucdmedicine" label="ucdmedicine" />
+      <node id="ucdmidwifery" label="ucdmidwifery" />
+      <node id="ucdpolitics" label="ucdpolitics" />
+      <node id="ucd_physics" label="ucd_physics" />
+    </nodes>
+    <edges>
+      <edge id="0" source="quinnschoolucd" target="ucd_english" />
+      <edge id="1" source="quinnschoolucd" target="ucdagfood" />
+      <edge id="2" source="quinnschoolucd" target="ucdarchaeology" />
+      <edge id="3" source="quinnschoolucd" target="ucdcompsci" />
+      <edge id="4" source="quinnschoolucd" target="ucdengarch" />
+      <edge id="5" source="quinnschoolucd" target="ucdlawschool" />
+      <edge id="6" source="quinnschoolucd" target="ucdmathstat" />
+      <edge id="7" source="quinnschoolucd" target="ucdmedicine" />
+      <edge id="8" source="quinnschoolucd" target="ucdmidwifery" />
+      <edge id="9" source="quinnschoolucd" target="ucdpolitics" />
+      <edge id="10" source="ucd_english" target="ucdlawschool" />
+      <edge id="11" source="ucdagfood" target="quinnschoolucd" />
+      <edge id="12" source="ucdagfood" target="ucd_english" />
+      <edge id="13" source="ucdagfood" target="ucdcompsci" />
+      <edge id="14" source="ucdagfood" target="ucdengarch" />
+      <edge id="15" source="ucdagfood" target="ucdlawschool" />
+      <edge id="16" source="ucdagfood" target="ucdmedicine" />
+      <edge id="17" source="ucdagfood" target="ucdmidwifery" />
+      <edge id="18" source="ucdarchaeology" target="quinnschoolucd" />
+      <edge id="19" source="ucdarchaeology" target="ucd_english" />
+      <edge id="20" source="ucdarchaeology" target="ucdagfood" />
+      <edge id="21" source="ucdarchaeology" target="ucdcompsci" />
+      <edge id="22" source="ucdarchaeology" target="ucdengarch" />
+      <edge id="23" source="ucdarchaeology" target="ucdlawschool" />
+      <edge id="24" source="ucdarchaeology" target="ucdmathstat" />
+      <edge id="25" source="ucdarchaeology" target="ucdmedicine" />
+      <edge id="26" source="ucdarchaeology" target="ucdmidwifery" />
+      <edge id="27" source="ucdarchaeology" target="ucdpolitics" />
+      <edge id="28" source="ucdcompsci" target="quinnschoolucd" />
+      <edge id="29" source="ucdcompsci" target="ucd_english" />
+      <edge id="30" source="ucdcompsci" target="ucd_physics" />
+      <edge id="31" source="ucdcompsci" target="ucdagfood" />
+      <edge id="32" source="ucdcompsci" target="ucdarchaeology" />
+      <edge id="33" source="ucdcompsci" target="ucdengarch" />
+      <edge id="34" source="ucdcompsci" target="ucdlawschool" />
+      <edge id="35" source="ucdcompsci" target="ucdmathstat" />
+      <edge id="36" source="ucdcompsci" target="ucdmedicine" />
+      <edge id="37" source="ucdcompsci" target="ucdmidwifery" />
+      <edge id="38" source="ucdcompsci" target="ucdpolitics" />
+      <edge id="39" source="ucdengarch" target="quinnschoolucd" />
+      <edge id="40" source="ucdengarch" target="ucd_english" />
+      <edge id="41" source="ucdengarch" target="ucdagfood" />
+      <edge id="42" source="ucdengarch" target="ucdarchaeology" />
+      <edge id="43" source="ucdengarch" target="ucdcompsci" />
+      <edge id="44" source="ucdengarch" target="ucdlawschool" />
+      <edge id="45" source="ucdengarch" target="ucdmathstat" />
+      <edge id="46" source="ucdengarch" target="ucdmedicine" />
+      <edge id="47" source="ucdengarch" target="ucdmidwifery" />
+      <edge id="48" source="ucdengarch" target="ucdpolitics" />
+      <edge id="49" source="ucdlawschool" target="quinnschoolucd" />
+      <edge id="50" source="ucdlawschool" target="ucd_english" />
+      <edge id="51" source="ucdlawschool" target="ucdagfood" />
+      <edge id="52" source="ucdlawschool" target="ucdarchaeology" />
+      <edge id="53" source="ucdlawschool" target="ucdcompsci" />
+      <edge id="54" source="ucdlawschool" target="ucdengarch" />
+      <edge id="55" source="ucdlawschool" target="ucdmathstat" />
+      <edge id="56" source="ucdlawschool" target="ucdmedicine" />
+      <edge id="57" source="ucdlawschool" target="ucdmidwifery" />
+      <edge id="58" source="ucdlawschool" target="ucdpolitics" />
+      <edge id="59" source="ucdmathstat" target="quinnschoolucd" />
+      <edge id="60" source="ucdmathstat" target="ucdcompsci" />
+      <edge id="61" source="ucdmathstat" target="ucdengarch" />
+      <edge id="62" source="ucdmedicine" target="ucdagfood" />
+      <edge id="63" source="ucdmedicine" target="ucdarchaeology" />
+      <edge id="64" source="ucdmedicine" target="ucdcompsci" />
+      <edge id="65" source="ucdmedicine" target="ucdengarch" />
+      <edge id="66" source="ucdmedicine" target="ucdlawschool" />
+      <edge id="67" source="ucdmedicine" target="ucdmidwifery" />
+      <edge id="68" source="ucdmedicine" target="ucdpolitics" />
+      <edge id="69" source="ucdmidwifery" target="quinnschoolucd" />
+      <edge id="70" source="ucdmidwifery" target="ucdagfood" />
+      <edge id="71" source="ucdmidwifery" target="ucdarchaeology" />
+      <edge id="72" source="ucdmidwifery" target="ucdcompsci" />
+      <edge id="73" source="ucdmidwifery" target="ucdengarch" />
+      <edge id="74" source="ucdmidwifery" target="ucdlawschool" />
+      <edge id="75" source="ucdmidwifery" target="ucdmedicine" />
+      <edge id="76" source="ucdpolitics" target="quinnschoolucd" />
+      <edge id="77" source="ucdpolitics" target="ucdagfood" />
+      <edge id="78" source="ucdpolitics" target="ucdarchaeology" />
+      <edge id="79" source="ucdpolitics" target="ucdcompsci" />
+      <edge id="80" source="ucdpolitics" target="ucdengarch" />
+      <edge id="81" source="ucdpolitics" target="ucdlawschool" />
+      <edge id="82" source="ucdpolitics" target="ucdmathstat" />
+      <edge id="83" source="ucdpolitics" target="ucdmedicine" />
+      <edge id="84" source="ucd_physics" target="ucdcompsci" />
+      <edge id="85" source="ucd_physics" target="ucdmathstat" />
+    </edges>
+  </graph>
+</gexf>
